@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "autocarousel",
+    "libraryId": "5cc9240f-7dc3-41b2-bb0d-2d1ba476b8a4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "autocarousel",
+    "solutionShortDescription": "autocarousel description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

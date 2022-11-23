@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "autocarousel-client-side-solution",
+    "id": "5cc9240f-7dc3-41b2-bb0d-2d1ba476b8a4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "autocarousel description"
+      },
+      "longDescription": {
+        "default": "autocarousel description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "autocarousel Feature",
+        "description": "The feature that activates elements of the autocarousel solution.",
+        "id": "0067cf0d-ae5b-4de5-a898-777cbc0699b1",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/autocarousel.sppkg"
+  }
+}

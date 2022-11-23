@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=z5NsNtrl4Og&list=PLjC4UKOOcfDRIsN7PpvSKZG1L7GArAjgB&index=9
+npm i react-slideshow-image
