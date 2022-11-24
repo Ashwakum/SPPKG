@@ -14,7 +14,6 @@ export default class AutoCarousel extends React.Component<IAutoCarouselProps, {}
       userDisplayName
     } = this.props;
 
-    
     return (
       <div style={{"width": "100%"}}>
         <CarouselSlider/>
