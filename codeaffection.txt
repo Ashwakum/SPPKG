@@ -1,2 +1,13 @@
 https://www.youtube.com/watch?v=z5NsNtrl4Og&list=PLjC4UKOOcfDRIsN7PpvSKZG1L7GArAjgB&index=9
-npm i react-slideshow-image
+npm install react-slideshow-image -S
+npm install sp-pnp-js –save
+
+Step1: Create one folder with the name carousel
+Step2: create tsx file with the name of carouselslider.tsx
+Step3: import
+            import { Slide } from 'react-slideshow-image';
+            import 'react-slideshow-image/dist/styles.css';
+            import * as pnp from 'sp-pnp-js';
+Step4: Add images in doocument library
+Step5: Any doubt then call me
+
